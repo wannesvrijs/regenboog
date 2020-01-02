@@ -1,2 +1,2 @@
 # regenboog
-dit is een gittest
+dit is een gittestje
